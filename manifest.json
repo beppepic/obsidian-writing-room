@@ -1,8 +1,7 @@
 {
   "name": "Writing Room",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "minAppVersion": "1.13.0",
   "author": "Beppe",
-  "authorUrl": "https://github.com/beppepic",
-  "description": "A minimal long-form writing theme that preserves Obsidian's native interface."
+  "authorUrl": "https://github.com/beppepic"
 }

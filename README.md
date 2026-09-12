@@ -12,8 +12,11 @@ Obsidian stays Obsidian: the native interface, colors, navigation, tabs, panels,
 - Document line height of `1.7`
 - Readable line width of `800px`
 - Document margins of `64px 32px 32px`
+- A compact heading scale that preserves hierarchy without web-sized headings
 
-Writing Room preserves the user's Obsidian font-size setting and Obsidian Default's paragraph spacing, heading hierarchy, heading weights, colors, backgrounds, links, lists, blockquotes, callouts, and checkboxes.
+Writing Room preserves the user's Obsidian font-size setting and Obsidian Default's paragraph spacing, heading weights, colors, backgrounds, links, lists, blockquotes, callouts, and checkboxes.
+
+The document title and heading levels use a restrained scale from `1.18em` down to `0.88em`, keeping structure visible while remaining close to the body text.
 
 ## Installation
 
